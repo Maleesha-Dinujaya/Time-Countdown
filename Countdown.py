@@ -10,7 +10,7 @@ def countdown(t):
         time.sleep(1)
         t-=1
         
-    print('Timer Completed')
+    print('Timer Completed Successfully')
 
 t = input("Enter the time in seconds: ")
 
