@@ -14,12 +14,3 @@ This is a simple Python script that creates a countdown timer. It takes user inp
 
 5. When the timer reaches zero, the message "Timer Completed" will be printed.
 
-## Example
-
-```shell
-$ python countdown.py
-Enter the time: 120
-01:59
-...
-00:01
-Timer Completed
