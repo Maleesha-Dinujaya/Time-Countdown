@@ -2,7 +2,7 @@
 
 This is a simple Python script that creates a countdown timer. It takes user input for the desired countdown time in seconds and displays the remaining time in minutes and seconds format. When the timer reaches zero, it prints "Timer Completed."
 
-### How to Use
+## How to Use
 
 1. Clone this repository to your local machine using `git clone`.
 
